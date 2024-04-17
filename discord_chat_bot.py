@@ -18,7 +18,7 @@ url = "https://dad-jokes.p.rapidapi.com/random/joke"
 offensive_words = []
 
 client = commands.Bot(command_prefix='/', intents=discord.Intents.all(),
-                      activity=discord.Activity(type=discord.ActivityType.playing, name="with your balls"))
+                      activity=discord.Activity(type=discord.ActivityType.playing))
 
 
 @client.event
