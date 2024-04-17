@@ -1,1 +1,1 @@
-# discord_bot_for_chatting
+This bot could be used for chat, uses different API`s for dad jokes, weather. When someone new enters the server, the bot gives the newcomer a custom role. The new user is also greeted with a custom JPG photo with "Greetings {newcomer name}". Additionally the bot could detect bad words, therefore deleting the msessage and warning the user, that wrote it.
